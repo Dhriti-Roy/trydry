@@ -1,0 +1,10 @@
+{
+  "name": "ascii-bloom",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Ascii Bloom: flowers made of code, with shared gardens for people who are far apart.",
+  "dependencies": {
+    "@neondatabase/serverless": "^0.10.4"
+  }
+}
